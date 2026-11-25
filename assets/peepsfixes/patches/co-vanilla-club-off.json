@@ -1,0 +1,10 @@
+[
+  {
+    "file": "game:itemtypes/tool/club.json",
+    "op": "add",
+    "path": "/enabled",
+    "value": false,
+    "side": "server",
+    "dependsOn": [ { "modid": "combatoverhaulfork" } ]
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "file": "tyrannosauridaepatched:itemtypes/egg_food.json",
+    "op": "remove",
+    "path": "/class",
+    "dependsOn": [ { "modid": "tyrannosauridaepatched" } ]
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "type": "code",
+  "modid": "peepsfixes",
+  "name": "Peeps Fixes",
+  "version": "1.3.1",
+  "description": "Small fixes for The Peeps server's mod list.",
+  "authors": [
+    "Jumboking3"
+  ],
+  "side": "universal",
+  "requiredOnClient": true,
+  "requiredOnServer": true,
+  "dependencies": {
+    "game": "1.22.0"
+  }
+}
